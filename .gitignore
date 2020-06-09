@@ -1,2 +1,4 @@
 .idea/
 target/
+src/main/resoures/data/*
+src/main/resoures/warehouse/*

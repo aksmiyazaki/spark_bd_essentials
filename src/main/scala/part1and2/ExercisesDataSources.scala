@@ -1,4 +1,4 @@
-package exercises
+package part1and2
 
 import org.apache.spark.sql.{SaveMode, SparkSession}
 

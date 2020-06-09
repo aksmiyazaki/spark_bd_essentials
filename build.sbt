@@ -4,7 +4,7 @@ version := "0.1"
 
 scalaVersion := "2.12.10"
 
-val sparkVersion = "3.0.0-preview"
+val sparkVersion = "2.4.4"
 val vegasVersion = "0.3.11"
 val postgresVersion = "42.2.2"
 
